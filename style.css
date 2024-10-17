@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 :root{
     --fonte-principal: 'Fjalla One';
+    --cor-de-fundo: #333a33; 
 }
 .titulo{
     color: #111111;
