@@ -3,8 +3,8 @@
     --fonte-principal: 'Fjalla One';
 }
 .titulo{
-    color: white;
+    color: #111111;
     text-align: center;
     font-family: 'Fjalla One';
-    font-size: 36px;
+    font-size: 40px;
 }
