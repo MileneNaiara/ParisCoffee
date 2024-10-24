@@ -3,11 +3,11 @@
     --fonte-principal: 'Fjalla One';
 }
 .titulo{
-    color: moccasin;
+    color: #AD795B;
     text-align: center;
     font-family: 'Fjalla One';
     font-size: 70px;
 }
 .cabecalho{
-    background-color: peru;
+    background-color: #FFE5B6;
 }
