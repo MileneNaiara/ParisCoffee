@@ -8,6 +8,7 @@
     font-family: 'Fjalla One';
     font-size: 70px;
 }
+
 .cabecalho{
     background-color: #FFE5B6;
 }
@@ -26,4 +27,16 @@
     text-align: center;
     font-family: 'Arima';
     font-size: 40px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.column{
+ padding: 20px;
+ width: 30%;
+ text-align: center;
 }
