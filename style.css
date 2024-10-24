@@ -5,7 +5,7 @@
 .titulo{
     color: #AD795B;
     text-align: center;
-    font-family: 'Fjalla One';
+    font-family: 'Abobrinha';
     font-size: 70px;
 }
 
@@ -25,7 +25,7 @@
 .titulo-secundario{
     color: #AD795B;
     text-align: center;
-    font-family: 'Arima';
+    font-family: 'Kalam';
     font-size: 40px;
 }
 
@@ -36,7 +36,7 @@
 }
 
 .column{
- padding: 10px;
+ padding: 5px;
  width: 30%;
  text-align: center;
 }
