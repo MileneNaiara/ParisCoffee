@@ -137,3 +137,19 @@ footer .social-media a:hover {
     font-weight: bold;
     font-size: 1.2em;
 }
+.Produto1 {
+    text-align: left;
+    padding: 10px 20px;
+    width: 300px;
+    height: auto;
+    font-size: 16px;
+    margin: 0 10px;
+}
+.Produto2 {
+    text-align: left;
+    padding: 10px 20px;
+    width: 300px;
+    height: auto;
+    font-size: 16px;
+    margin: 0 10px;
+}
