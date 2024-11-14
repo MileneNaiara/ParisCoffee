@@ -76,8 +76,64 @@ footer .social-media a {
 footer .social-media a:hover {
     text-decoration: underline;
 }
-.banner{
+.destaques{
     background-color: #FFE5B6;
-    font-size: 20px;
+    padding: 30px;
     text-align: center;
+}
+.destaques h2{
+    color: #333;
+}
+.destaques p{
+    color: #666;
+}
+.categorias{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #FFE5B6;
+}
+.categoria{
+    background-color: #FFE5B6;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    width: 30%;
+}
+.categoria h3{
+    color: #333;
+}
+.produtos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #FFE5B6;
+}
+.produto{
+    background-color: #FFE5B6;
+    width: 30%;
+    margin: 10px;
+    padding: 15px;
+    box-shadow: 0 0 10px
+    rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+.produto img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.produto h4{
+    color: #333;
+    margin-top: 10px;
+}
+.produto p{
+    color: #666;
+}
+.produto .preco{
+    color: #AD795B;
+    font-weight: bold;
+    font-size: 1.2em;
 }
